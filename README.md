@@ -4,5 +4,5 @@ Here is my turn on the data challenge. An interesting challenge where I could ex
 I did a complete write-up to give insight into my working process in the PDF. 
 
 #### note. 
-The python files are coming from jupyter. the structure is not object-orientated.
+The python files are coming from jupyter. The overal structure is not object-oriented since it was an exploration.
 Please refer to my other github projects to find prove of my skills to do so.
